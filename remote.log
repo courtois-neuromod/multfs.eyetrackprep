@@ -1,1 +1,1 @@
-cd92fbe6-6167-4ca7-9938-fbfbe8a3692a autoenable=true bucket=cneuromod.multfs.eyetrackprep chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.multfs.eyetrackprep port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1790967053s
+cd92fbe6-6167-4ca7-9938-fbfbe8a3692a autoenable=true bucket=cneuromod.multfs.eyetrackprep chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.multfs.eyetrackprep port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1790973126s
